@@ -15,7 +15,7 @@ Windows agent who automatically maps external USB hard drives to a predefined vi
 
 ![alt text](https://github.com/naturosofts/USBDrivesDetector/blob/master/Resources/demo_tray.JPG)
 
-### Quit appliction
+### Quit the application
 ![alt text](https://github.com/naturosofts/USBDrivesDetector/blob/master/Resources/demo_tray_exit.JPG)
 
 
