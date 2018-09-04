@@ -11,6 +11,7 @@ Windows agent who automatically maps external USB hard drives to a predefined vi
 
 ### Application appears in system tray
 > A red icon means no USB hard drive is mapped
+>
 > A green icon means a USB hard drive is mapped to the defined virtual drive unit
 
 ![alt text](https://github.com/naturosofts/USBDrivesDetector/blob/master/Resources/demo_tray.JPG)
